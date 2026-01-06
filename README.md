@@ -1,4 +1,4 @@
-<img width="203" height="108" alt="Screenshot 2026-01-05 142313" src="https://github.com/user-attachments/assets/56b9ffe7-932c-4eeb-ac1f-62a9a18d93a0" />![Alt text for the image](IMG_7993-Edit.jpg)
+![Alt text for the image](IMG_7993-Edit.jpg)
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
