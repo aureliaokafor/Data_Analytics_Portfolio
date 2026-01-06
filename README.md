@@ -60,14 +60,14 @@ My insights guided the school to Monitor work and extracurricular hours to preve
 [Click here](Spa.pdf)
 
 
-
+---
 
 
 **Sleep Health and Lifestyle Analysis**
 
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+![image](Pic3.png)
+I analysed 374 rows of data Of skilled workers with normal, obese and overweight body mass index. Those wwho had normal body mass index had better quality of sleep, blood pressure and stress level outcomes.
+My insights guided the hospital to implement dietary changes,increase physical activity, weight reduction management and improve on sleep hygiene for those in the obese and overweight group.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
