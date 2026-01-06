@@ -36,13 +36,13 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 
 
-*
+---
 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*Have a look at some of the projects I have done.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](1 anietie etuk data analytics car project.jpeg)
@@ -71,32 +71,24 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Like what you see? Let's Connect!*
 <table>
   <tbody>
     <tr>
-      <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td>📧 Send me an email at</td>
+      <td><a href="mailto:aureokafor2@gmail.com">aureokafor2@gmail.com</a></td>
     </tr>
     <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>☎️ Give me a call </td>
+      <td>(234) 8037136689</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
-      <td>⬇️</td>
+      <td>📑</td>
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
