@@ -63,7 +63,7 @@ My insights guided the school to Monitor work and extracurricular hours to preve
 
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Sleep Health and Lifestyle Analysis**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
