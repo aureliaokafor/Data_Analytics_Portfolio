@@ -1,4 +1,4 @@
-<img width="609" height="323" alt="Screenshot 2026-01-05 142313" src="https://github.com/user-attachments/assets/56b9ffe7-932c-4eeb-ac1f-62a9a18d93a0" />![Alt text for the image](IMG_7993-Edit.jpg)
+<img width="203" height="108" alt="Screenshot 2026-01-05 142313" src="https://github.com/user-attachments/assets/56b9ffe7-932c-4eeb-ac1f-62a9a18d93a0" />![Alt text for the image](IMG_7993-Edit.jpg)
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
@@ -45,7 +45,7 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 *Have a look at some of the projects I have done.*
 
-**New Student Performance.**
+**Student Performance Report.**
 ![image](pic2.png)
 *Dashboard 1*
 ---
@@ -53,7 +53,10 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 *Dashboard 2*
 ---
 
-<!--your narration here -->
+I analysed 2,000 rows of data in seven subjects to support student performance in a school. Most students performed better in Math, English and Physics compared to the other subjects.
+My insights guided the school to Monitor work and extracurricular hours to prevent overload; prioritize academic tasks and provide free or affordable tutoring services in all the subjects to ensure students receive the necessary support to succeed academically.
+<img width="2390" height="161" alt="image" src="https://github.com/user-attachments/assets/b546f24c-12d7-4ad9-953c-ebc2f13f18c7" />
+
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
