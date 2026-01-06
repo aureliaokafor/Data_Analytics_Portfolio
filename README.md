@@ -69,7 +69,7 @@ My insights guided the school to Monitor work and extracurricular hours to preve
 I analysed 374 rows of data Of skilled workers with normal, obese and overweight body mass index. Those wwho had normal body mass index had better quality of sleep, blood pressure and stress level outcomes.
 My insights guided the hospital to implement dietary changes,increase physical activity, weight reduction management and improve on sleep hygiene for those in the obese and overweight group.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Click here](Sleep-Health-and-Lifestyle-Report.pdf)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
