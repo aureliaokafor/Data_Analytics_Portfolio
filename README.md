@@ -1,19 +1,42 @@
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Aurelia Okafor 🤓, a data analyst  with a strong interest in transforming educational and operational data into meaningful insights that support data-driven decision-making. I enjoy working with data to uncover patterns, trends, and opportunities for improvement.
+
+ 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+## Core Skills (Technical Skills)
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+As a data analyst, I possess strong technical skills that enable me to collect, clean, analyze, and visualize data effectively to support decision-making.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+- **Data Analysis & Cleaning:** Preparing, validating, and transforming raw data to ensure accuracy and reliability  
+- **Excel:** Advanced formulas, pivot tables, dashboards, data validation, and reporting  
+- **SQL:** Writing complex queries using joins, subqueries, aggregations, and filtering to extract insights from databases  
+- **Power BI:** Data modeling, DAX calculations, interactive dashboards, and performance reporting  
+- **Tableau:** Creating clear, insightful visualizations and dashboards for data storytelling  
+- **Data Visualization:** Presenting insights in a visually compelling and easy-to-understand format  
+- **Reporting & Documentation:** Translating analysis results into actionable reports and presentations  
+
+---
+
+## Soft Skills
+
+In addition to technical expertise, I bring strong soft skills that are essential for effective data analysis and collaboration.
+
+- **Analytical & Critical Thinking:** Ability to interpret data, identify patterns, and draw meaningful conclusions  
+- **Problem-Solving:** Using data-driven approaches to address business and operational challenges  
+- **Attention to Detail:** Ensuring data accuracy, consistency, and integrity throughout the analysis process  
+- **Communication Skills:** Explaining complex data insights clearly to both technical and non-technical stakeholders  
+- **Collaboration & Teamwork:** Working effectively with cross-functional teams to achieve shared goals  
+- **Time Management:** Managing multiple tasks and deadlines efficiently  
+- **Adaptability & Continuous Learning:** Staying current with evolving tools, techniques, and industry trends  
+
+
+
+*
 
 
 <!--Section 2: List 3-4 key projects-->
