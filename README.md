@@ -1,4 +1,4 @@
-![Alt text for the image](IMG_7993-Edit.jpg)
+<img width="609" height="323" alt="Screenshot 2026-01-05 142313" src="https://github.com/user-attachments/assets/56b9ffe7-932c-4eeb-ac1f-62a9a18d93a0" />![Alt text for the image](IMG_7993-Edit.jpg)
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
@@ -45,10 +45,15 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 *Have a look at some of the projects I have done.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**New Student Performance.**
+![image](pic2.png)
+*Dashboard 1*
+---
+![image](pic1.png)
+*Dashboard 2*
+---
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+<!--your narration here -->
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
