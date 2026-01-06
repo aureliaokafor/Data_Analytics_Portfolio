@@ -1,4 +1,5 @@
-![Alt text for the image](IMG_7993-Edit.jpg)
+![ima](IMG_7993-Edit.jpg)
+<img width="340" height="120" alt="ima" src="https://github.com/user-attachments/assets/b546f24c-12d7-4ad9-953c-ebc2f13f18c7" />
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
