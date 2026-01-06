@@ -1,3 +1,4 @@
+![Alt text for the image](IMG_7993-Edit.jpg)
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
