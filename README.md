@@ -1,5 +1,4 @@
 
-<img width="400" height="200" alt="ima" src="IMG_7993-Edit.jpg" />
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
