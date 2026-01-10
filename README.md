@@ -57,6 +57,8 @@ I analysed 2,000 rows of data in seven subjects to support student performance i
 My insights guided the school to Monitor work and extracurricular hours to prevent overload; prioritize academic tasks and provide free or affordable tutoring services in all the subjects to ensure students receive the necessary support to succeed academically.
 
 [Click here](Spa.pdf)
+if you liked it see the full dashboard on my linkedin 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7411724183530848257/"> go here </a>
 
 
 ---
