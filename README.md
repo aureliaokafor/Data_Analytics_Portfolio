@@ -46,10 +46,10 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 *Have a look at some of the projects I have done.*
 
 **Student Performance Report.**
-![image](pic2.png)
+
 *Dashboard 1*
 ---
-![image](pic1.png)
+
 *Dashboard 2*
 ---
 
@@ -58,7 +58,7 @@ My insights guided the school to Monitor work and extracurricular hours to preve
 
 [Click here](Spa.pdf)
 if you liked it see the full dashboard on my linkedin 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7411724183530848257/"> go here </a>
+<a href=""> go here </a>
 
 
 ---
@@ -92,7 +92,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>☎️ Give me a call </td>
-      <td>(234) 8037136689</td>
+      <td>(+234) 8037136689</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -100,7 +100,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📑</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Cv.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>📑</td>
+      <td><a href="https://www.linkedin.com/in/aureliaaokafor/">Connect with me on Linkedin</a></td>
     </tr>
   </tbody>
 </table>
