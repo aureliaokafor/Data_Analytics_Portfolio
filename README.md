@@ -103,7 +103,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="Cv.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>📑</td>
+      <td> ℹ️ </td>
       <td><a href="https://www.linkedin.com/in/aureliaaokafor/">Connect with me on Linkedin</a></td>
     </tr>
   </tbody>
