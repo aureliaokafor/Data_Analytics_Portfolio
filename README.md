@@ -55,7 +55,7 @@ My insights guided the school to Monitor work and extracurricular hours to preve
 
 [Click here](Student.pdf)
 if you liked it see the full dashboard on my linkedin 
-<a href=""> go here </a>
+<a href="https://www.linkedin.com/in/aureliaaokafor/recent-activity/all/"> go here </a>
 
 
 ---
