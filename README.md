@@ -56,7 +56,7 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 I analysed 2,000 rows of data in seven subjects to support student performance in a school. Most students performed better in Math, English and Physics compared to the other subjects.
 My insights guided the school to Monitor work and extracurricular hours to prevent overload; prioritize academic tasks and provide free or affordable tutoring services in all the subjects to ensure students receive the necessary support to succeed academically.
 
-[Click here](Spa.pdf)
+[Click here]()
 if you liked it see the full dashboard on my linkedin 
 <a href=""> go here </a>
 
