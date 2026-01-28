@@ -47,10 +47,7 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 **Student Performance Report.**
 
-*Dashboard 1*
----
-
-*Dashboard 2*
+![img](Student.png)
 ---
 
 I analysed 2,000 rows of data in seven subjects to support student performance in a school. Most students performed better in Math, English and Physics compared to the other subjects.
