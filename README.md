@@ -138,14 +138,12 @@ While intermittent absences showed minimal academic impact, the school should st
 Prioritize professional development programs that equip teachers with evidence-based strategies for identifying and supporting academically vulnerable learners, particularly those scoring within the 35–49 range, where subject-level struggle is most concentrated and the risk of further decline is highest.
 ---
 ## Connect With Me
+
+*Like what you see? Let's Connect!
 •	LinkedIn: 
 •	Project LinkedIn Post: [View post]()
+## Contact Information
 
-
-
-## Connect With Me
-
-*Like what you see? Let's Connect!*
 <table>
   <tbody>
     <tr>
