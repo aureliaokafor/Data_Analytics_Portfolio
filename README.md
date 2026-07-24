@@ -55,7 +55,7 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 5.	[Process](#process)
 6.	[Key Insights](#key-insights)
 7.	[Recommendations](#recommendations)
-8.	[Connect With Me](#connect-with-me)
+<h5>8.	[Connect With Me](#connect-with-me)</h5>
 ---
 ## Project Overview
 This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: Do students who show up perform better?
@@ -153,7 +153,7 @@ Prioritize professional development programs that equip teachers with evidence-b
 ## Connect With Me
 
 *Like what you see? Let's Connect!
-•	LinkedIn: 
+•	LinkedIn: [My profile](linkedin.com/in/aureliaaokafor)
 •	Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_attendance-analytics-when-data-challenges-activity-7476230166747209728-sZhk)
 
  
