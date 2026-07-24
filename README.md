@@ -305,7 +305,7 @@ Establish a regular monitoring cycle; termly or quarterly to track student achie
 ## Connect With Me
 
 - LinkedIn:[My profile](www.linkedin.com/in/aureliaaokafor)
-- Project LinkedIn Post: [View post]()
+- Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_utme-student-performance-analysis-activity-7467151675875569664-chZr)
 
 
  
