@@ -139,11 +139,11 @@ Prioritize professional development programs that equip teachers with evidence-b
 ---
 ## Connect With Me
 •	LinkedIn: 
-•	Project LinkedIn Post: [View post](#paste you
+•	Project LinkedIn Post: [View post]()
 
 
 
-## CONTACT DETAILS
+## Connect With Me
 
 *Like what you see? Let's Connect!*
 <table>
