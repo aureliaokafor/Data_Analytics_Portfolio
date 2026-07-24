@@ -55,14 +55,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 5.	[Process](#process)
 6.	[Key Insights](#key-insights)
 7.	[Recommendations](#recommendations)
-8.	[Connect With Me](#connect with-me)
+8.	[Connect With Me](#connect-with-me)
 ---
 ## Project Overview
 This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: Do students who show up perform better?
 The analysis combined a star-schema data model, DAX measures, and inferential statistics (t-tests) to investigate the relationship between attendance and academic performance, identify subjects where students struggle most, and surface class- and term-level performance trends to support school leadership decision-making.
----
- ![img](Picture1.png)
----
+
+--- 
+![img](Picture1.png)
 ## Business Problem
 School leadership lacked a consolidated view to:
 •	Track student performance across classes, terms, and subjects in one place
@@ -70,6 +70,7 @@ School leadership lacked a consolidated view to:
 •	Identify which subjects and score bands need the most intervention
 •	Spot early warning signs of declining performance at the class level
 •	Make evidence-based decisions on where to focus support and resources
+
 ---
 ## Objective
 The goal of this project was to:
@@ -79,6 +80,7 @@ The goal of this project was to:
 •	Statistically test whether attendance has a significant effect on scores
 •	Identify the subjects and score bands where students are struggling most
 •	Translate findings into actionable recommendations for the school
+
 ---
 ## Tools Used
 •	Microsoft Excel
@@ -87,6 +89,7 @@ The goal of this project was to:
 •	Power Query
 •	Inferential Statistics (Independent t-tests)
 •	PowerPoint for report packaging
+
 ---
 ## Process
 The following steps were carried out during the analysis:
@@ -104,38 +107,48 @@ The following steps were carried out during the analysis:
 •	Pass Rate: 85.4%
 •	Attendance Rate: 82.9%
 •	Average score improved steadily across the academic year — 65.0 (First Term) → 65.8 (Second Term) → 67.0 (Third Term)
+
 ---
 ### Attendance vs. Performance
 •	Counterintuitively, students with poor attendance scored higher on average (90.0%) than students with good attendance (84.4%)
 •	This finding was statistically confirmed via independent t-tests across all 7 subjects (all p > 0.05), meaning attendance status did not show a statistically significant effect on scores
 •	Rather than suggesting an advantage to absenteeism, this likely reflects the intermittent nature of the absences recorded. Missed classes were scattered rather than consecutive, allowing students to re-engage with lesson content and recover lost ground with teacher support, without major disruption to their academic trajectory
+
 ---
 ### Independent t-test results (Good vs. Poor attendance) by subject:
 ![img](Picture2.png)
 All seven subjects returned p-values well above the 0.05 significance threshold, confirming that the difference in academic performance between Good and Poor attendance groups is not statistically significant.
+
 ---
 ### Class-Level Trends
 •	Primary 2 pass rates declined steadily across the year  from 83.3% (Term 1) to 80% (Term 2) to 78.6% (Term 3) ;  a pattern likely driven by students accumulating consecutive absences, which made recovering missed content increasingly difficult
+
 ---
 ### Subject-Level Struggles
 •	Across both attendance groups, French, Science, and Mathematics emerged as the three subjects where students struggled most
 •	French was the highest-concern subject overall, with the largest concentration of students in the 35–49 score band (132 students)
+
 ---
 ## Recommendations
 ### 1. Targeted Subject Support
 Prioritize intervention programs in French, Science, and Mathematics, the three subjects where students across all attendance groups consistently underperformed.
+
 ---
 ### 2. Consecutive Absence Monitoring
 Implement an early alert system to flag students who miss school on consecutive days, enabling timely academic catch-up support before learning gaps widen.
+
 ---
 ### 3. Structured Catch-Up Programs
 Establish a formal catch-up framework like remedial classes or peer tutoring to ensure students returning from any absence can recover missed content without falling behind.
+
 ---
 ### 4. Whole-School Attendance Culture
 While intermittent absences showed minimal academic impact, the school should still reinforce consistent attendance habits through parental engagement and awareness campaigns to prevent absences from becoming chronic.
+
 ---
 ### 5. Teacher Training & Support for Low-Scoring Students
 Prioritize professional development programs that equip teachers with evidence-based strategies for identifying and supporting academically vulnerable learners, particularly those scoring within the 35–49 range, where subject-level struggle is most concentrated and the risk of further decline is highest.
+
 ---
 ## Connect With Me
 
