@@ -55,7 +55,9 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 5.	[Process](#process)
 6.	[Key Insights](#key-insights)
 7.	[Recommendations](#recommendations)
-<h5>8.	[Connect With Me](#connect-with-me)</h5>
+8.	[Connect With Me](#connect-with-me)
+
+
 ---
 ## Project Overview
 This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: Do students who show up perform better?
@@ -99,6 +101,8 @@ The following steps were carried out during the analysis:
 4.	Segmented students into Good vs Poor attendance status and compared performance outcomes
 5.	Ran independent t-tests across all 7 subjects to test whether the attendance-performance gap was statistically significant
 6.	Designed a dashboard with KPI cards, conditional formatting, slicers, and a 100% stacked bar chart for score band breakdowns
+
+
 ---
 
 ## Key Insights
