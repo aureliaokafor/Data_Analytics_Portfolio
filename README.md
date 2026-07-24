@@ -60,18 +60,18 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 ---
 ## Project Overview
-This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: Do students who show up perform better?
+This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: **Do students who show up perform better?**  
 The analysis combined a star-schema data model, DAX measures, and inferential statistics (t-tests) to investigate the relationship between attendance and academic performance, identify subjects where students struggle most, and surface class- and term-level performance trends to support school leadership decision-making.
 
 --- 
 ![img](Picture1.png)
 ## Business Problem
-School leadership lacked a consolidated view to:
-•	Track student performance across classes, terms, and subjects in one place
-•	Understand whether attendance meaningfully drives academic outcomes
-•	Identify which subjects and score bands need the most intervention
-•	Spot early warning signs of declining performance at the class level
-•	Make evidence-based decisions on where to focus support and resources
+School leadership lacked a consolidated view to:  
+•	Track student performance across classes, terms, and subjects in one place  
+•	Understand whether attendance meaningfully drives academic outcomes  
+•	Identify which subjects and score bands need the most intervention  
+•	Spot early warning signs of declining performance at the class level  
+•	Make evidence-based decisions on where to focus support and resources  
 
 ---
 ## Objective
