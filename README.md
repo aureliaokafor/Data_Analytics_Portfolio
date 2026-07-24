@@ -75,7 +75,7 @@ School leadership lacked a consolidated view to:
 
 ---
 ## Objective
-The goal of this project was to:
+The goal of this project was to:  
 •	Consolidate 300 students’ academic and attendance records into a single data model  
 •	Calculate core KPIs: total students, average score, pass rate, and attendance rate  
 •	Compare performance across classes, terms, and attendance status (Good vs Poor)  
@@ -85,38 +85,38 @@ The goal of this project was to:
 
 ---
 ## Tools Used
-•	Microsoft Excel
-•	Power Pivot (Data Model)
-•	DAX (Data Analysis Expressions)
-•	Power Query
-•	Inferential Statistics (Independent t-tests)
-•	PowerPoint for report packaging
+•	Microsoft Excel  
+•	Power Pivot (Data Model)  
+•	DAX (Data Analysis Expressions)  
+•	Power Query  
+•	Inferential Statistics (Independent t-tests)  
+•	PowerPoint for report packaging  
 
 ---
 ## Process
-The following steps were carried out during the analysis:
-1.	Establishing a clean star schema linking students, scores, attendance, and subjects
-2.	Cleaned and transformed raw score and attendance records using Power Query
-3.	Wrote DAX measures for Total Students, Average Score, Pass Rate, and Attendance Rate
-4.	Segmented students into Good vs Poor attendance status and compared performance outcomes
-5.	Ran independent t-tests across all 7 subjects to test whether the attendance-performance gap was statistically significant
-6.	Designed a dashboard with KPI cards, conditional formatting, slicers, and a 100% stacked bar chart for score band breakdowns
+The following steps were carried out during the analysis:  
+1.	Establishing a clean star schema linking students, scores, attendance, and subjects  
+2.	Cleaned and transformed raw score and attendance records using Power Query  
+3.	Wrote DAX measures for Total Students, Average Score, Pass Rate, and Attendance Rate  
+4.	Segmented students into Good vs Poor attendance status and compared performance outcomes  
+5.	Ran independent t-tests across all 7 subjects to test whether the attendance-performance gap was statistically significant  
+6.	Designed a dashboard with KPI cards, conditional formatting, slicers, and a 100% stacked bar chart for score band breakdowns  
 
 
 ---
 
 ## Key Insights
 ### Overall Performance
-•	300 students analyzed across 3 terms
-•	Pass Rate: 85.4%
-•	Attendance Rate: 82.9%
-•	Average score improved steadily across the academic year — 65.0 (First Term) → 65.8 (Second Term) → 67.0 (Third Term)
+•	300 students analyzed across 3 terms  
+•	Pass Rate: 85.4%  
+•	Attendance Rate: 82.9%  
+•	Average score improved steadily across the academic year — 65.0 (First Term) → 65.8 (Second Term) → 67.0 (Third Term)  
 
 ---
 ### Attendance vs. Performance
-•	Counterintuitively, students with poor attendance scored higher on average (90.0%) than students with good attendance (84.4%)
-•	This finding was statistically confirmed via independent t-tests across all 7 subjects (all p > 0.05), meaning attendance status did not show a statistically significant effect on scores
-•	Rather than suggesting an advantage to absenteeism, this likely reflects the intermittent nature of the absences recorded. Missed classes were scattered rather than consecutive, allowing students to re-engage with lesson content and recover lost ground with teacher support, without major disruption to their academic trajectory
+•	Counterintuitively, students with poor attendance scored higher on average (90.0%) than students with good attendance (84.4%)  
+•	This finding was statistically confirmed via independent t-tests across all 7 subjects (all p > 0.05), meaning attendance status did not show a statistically significant effect on scores  
+•	Rather than suggesting an advantage to absenteeism, this likely reflects the intermittent nature of the absences recorded. Missed classes were scattered rather than consecutive, allowing students to re-engage with lesson content and recover lost ground with teacher support, without major disruption to their academic trajectory  
 
 ---
 ### Independent t-test results (Good vs. Poor attendance) by subject:
@@ -125,12 +125,12 @@ All seven subjects returned p-values well above the 0.05 significance threshold,
 
 ---
 ### Class-Level Trends
-•	Primary 2 pass rates declined steadily across the year  from 83.3% (Term 1) to 80% (Term 2) to 78.6% (Term 3) ;  a pattern likely driven by students accumulating consecutive absences, which made recovering missed content increasingly difficult
+•	Primary 2 pass rates declined steadily across the year  from 83.3% (Term 1) to 80% (Term 2) to 78.6% (Term 3) ;  a pattern likely driven by students accumulating consecutive absences, which made recovering missed content increasingly difficult  
 
 ---
 ### Subject-Level Struggles
-•	Across both attendance groups, French, Science, and Mathematics emerged as the three subjects where students struggled most
-•	French was the highest-concern subject overall, with the largest concentration of students in the 35–49 score band (132 students)
+•	Across both attendance groups, French, Science, and Mathematics emerged as the three subjects where students struggled most  
+•	French was the highest-concern subject overall, with the largest concentration of students in the 35–49 score band (132 students)  
 
 ---
 ## Recommendations
