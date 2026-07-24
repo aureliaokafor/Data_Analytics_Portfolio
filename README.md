@@ -156,9 +156,9 @@ Prioritize professional development programs that equip teachers with evidence-b
 ---
 ### Connect With Me
 
-** Let's Connect!**  
+#### Let's Connect!
 
-•	LinkedIn: [My profile](linkedin.com/in/aureliaaokafor)
+•	LinkedIn: [My profile](www.linkedin.com/in/aureliaaokafor)
 •	Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_attendance-analytics-when-data-challenges-activity-7476230166747209728-sZhk)
 
 # UTME Student Performance Analysis
@@ -304,8 +304,8 @@ Establish a regular monitoring cycle; termly or quarterly to track student achie
 
 ## Connect With Me
 
-- LinkedIn:
-- Project LinkedIn Post: [View post](#paste your LinkedIn post URL here)
+- LinkedIn:[My profile](www.linkedin.com/in/aureliaaokafor)
+- Project LinkedIn Post: [View post]()
 
 
  
