@@ -154,6 +154,6 @@ Prioritize professional development programs that equip teachers with evidence-b
 
 *Like what you see? Let's Connect!
 •	LinkedIn: 
-•	Project LinkedIn Post: [View post]()
+•	Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_attendance-analytics-when-data-challenges-activity-7476230166747209728-sZhk)
 
  
