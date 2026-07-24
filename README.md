@@ -76,12 +76,12 @@ School leadership lacked a consolidated view to:
 ---
 ## Objective
 The goal of this project was to:
-•	Consolidate 300 students’ academic and attendance records into a single data model
-•	Calculate core KPIs: total students, average score, pass rate, and attendance rate
-•	Compare performance across classes, terms, and attendance status (Good vs Poor)
-•	Statistically test whether attendance has a significant effect on scores
-•	Identify the subjects and score bands where students are struggling most
-•	Translate findings into actionable recommendations for the school
+•	Consolidate 300 students’ academic and attendance records into a single data model  
+•	Calculate core KPIs: total students, average score, pass rate, and attendance rate  
+•	Compare performance across classes, terms, and attendance status (Good vs Poor)  
+•	Statistically test whether attendance has a significant effect on scores  
+•	Identify the subjects and score bands where students are struggling most  
+•	Translate findings into actionable recommendations for the school  
 
 ---
 ## Tools Used
