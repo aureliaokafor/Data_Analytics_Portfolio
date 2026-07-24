@@ -45,37 +45,109 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 *Have a look at some of the projects I have done.*
 
-**Student Performance Report.**
-
-![img](Student.png)
+# Student Attendance and Performance Analysis
+---
+## Table of Contents
+1.	[Project Overview](#project-overview)
+2.	[Business Problem](#business-problem)
+3.	[Objective](#objective)
+4.	[Tools Used](#tools-used)
+5.	[Process](#process)
+6.	[Key Insights](#key-insights)
+7.	[Recommendations](#recommendations)
+8.	[Connect With Me](#connect with-me)
+---
+## Project Overview
+This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: Do students who show up perform better?
+The analysis combined a star-schema data model, DAX measures, and inferential statistics (t-tests) to investigate the relationship between attendance and academic performance, identify subjects where students struggle most, and surface class- and term-level performance trends to support school leadership decision-making.
+---
+ 
+---
+## Business Problem
+School leadership lacked a consolidated view to:
+•	Track student performance across classes, terms, and subjects in one place
+•	Understand whether attendance meaningfully drives academic outcomes
+•	Identify which subjects and score bands need the most intervention
+•	Spot early warning signs of declining performance at the class level
+•	Make evidence-based decisions on where to focus support and resources
+---
+## Objective
+The goal of this project was to:
+•	Consolidate 300 students’ academic and attendance records into a single data model
+•	Calculate core KPIs: total students, average score, pass rate, and attendance rate
+•	Compare performance across classes, terms, and attendance status (Good vs Poor)
+•	Statistically test whether attendance has a significant effect on scores
+•	Identify the subjects and score bands where students are struggling most
+•	Translate findings into actionable recommendations for the school
+---
+## Tools Used
+•	Microsoft Excel
+•	Power Pivot (Data Model)
+•	DAX (Data Analysis Expressions)
+•	Power Query
+•	Inferential Statistics (Independent t-tests)
+•	PowerPoint for report packaging
+---
+## Process
+The following steps were carried out during the analysis:
+1.	Establishing a clean star schema linking students, scores, attendance, and subjects
+2.	Cleaned and transformed raw score and attendance records using Power Query
+3.	Wrote DAX measures for Total Students, Average Score, Pass Rate, and Attendance Rate
+4.	Segmented students into Good vs Poor attendance status and compared performance outcomes
+5.	Ran independent t-tests across all 7 subjects to test whether the attendance-performance gap was statistically significant
+6.	Designed a dashboard with KPI cards, conditional formatting, slicers, and a 100% stacked bar chart for score band breakdowns
 ---
 
-I analysed 2,000 rows of data in seven subjects to support student performance in a school. Most students performed better in Math, English and Physics compared to the other subjects.
-My insights guided the school to Monitor work and extracurricular hours to prevent overload; prioritize academic tasks and provide free or affordable tutoring services in all the subjects to ensure students receive the necessary support to succeed academically.
-
-[Click here](Student.pdf)
-if you liked it see the full dashboard on my linkedin 
-<a href="https://www.linkedin.com/in/aureliaaokafor/recent-activity/all/"> go here </a>
-
-
+## Key Insights
+### Overall Performance
+•	300 students analyzed across 3 terms
+•	Pass Rate: 85.4%
+•	Attendance Rate: 82.9%
+•	Average score improved steadily across the academic year — 65.0 (First Term) → 65.8 (Second Term) → 67.0 (Third Term)
 ---
+### Attendance vs. Performance
+•	Counterintuitively, students with poor attendance scored higher on average (90.0%) than students with good attendance (84.4%)
+•	This finding was statistically confirmed via independent t-tests across all 7 subjects (all p > 0.05), meaning attendance status did not show a statistically significant effect on scores
+•	Rather than suggesting an advantage to absenteeism, this likely reflects the intermittent nature of the absences recorded. Missed classes were scattered rather than consecutive, allowing students to re-engage with lesson content and recover lost ground with teacher support, without major disruption to their academic trajectory
+---
+### Independent t-test results (Good vs. Poor attendance) by subject:
+Subject	Good Mean	Poor Mean	t-Stat	df	p-value (2-tail)	Significant?
+Mathematics	63.55	61.48	1.386	898	0.166	No
+English	67.67	67.45	0.144	898	0.886	No
+Social Studies	68.09	68.59	-0.327	898	0.744	No
+Science	63.52	64.30	-0.521	898	0.603	No
+Vocational Aptitude	71.11	72.58	-0.961	898	0.337	No
+French	58.02	57.73	0.207	898	0.836	No
+Civic Education	69.09	71.30	-1.428	898	0.154	No
+All seven subjects returned p-values well above the 0.05 significance threshold, confirming that the difference in academic performance between Good and Poor attendance groups is not statistically significant.
+---
+### Class-Level Trends
+•	Primary 2 pass rates declined steadily across the year  from 83.3% (Term 1) to 80% (Term 2) to 78.6% (Term 3) ;  a pattern likely driven by students accumulating consecutive absences, which made recovering missed content increasingly difficult
+---
+### Subject-Level Struggles
+•	Across both attendance groups, French, Science, and Mathematics emerged as the three subjects where students struggled most
+•	French was the highest-concern subject overall, with the largest concentration of students in the 35–49 score band (132 students)
+---
+## Recommendations
+### 1. Targeted Subject Support
+Prioritize intervention programs in French, Science, and Mathematics, the three subjects where students across all attendance groups consistently underperformed.
+---
+### 2. Consecutive Absence Monitoring
+Implement an early alert system to flag students who miss school on consecutive days, enabling timely academic catch-up support before learning gaps widen.
+---
+### 3. Structured Catch-Up Programs
+Establish a formal catch-up framework like remedial classes or peer tutoring to ensure students returning from any absence can recover missed content without falling behind.
+---
+### 4. Whole-School Attendance Culture
+While intermittent absences showed minimal academic impact, the school should still reinforce consistent attendance habits through parental engagement and awareness campaigns to prevent absences from becoming chronic.
+---
+### 5. Teacher Training & Support for Low-Scoring Students
+Prioritize professional development programs that equip teachers with evidence-based strategies for identifying and supporting academically vulnerable learners, particularly those scoring within the 35–49 range, where subject-level struggle is most concentrated and the risk of further decline is highest.
+---
+## Connect With Me
+•	LinkedIn: 
+•	Project LinkedIn Post: [View post](#paste you
 
-
-**Sleep Health and Lifestyle Analysis**
-
-![image](Pic3.png)
-I analysed 374 rows of data Of skilled workers with normal, obese and overweight body mass index. Those wwho had normal body mass index had better quality of sleep, blood pressure and stress level outcomes.
-My insights guided the hospital to implement dietary changes,increase physical activity, weight reduction management and improve on sleep hygiene for those in the obese and overweight group.
-
-[Click here](Sleep-Health-and-Lifestyle-Report.pdf)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
