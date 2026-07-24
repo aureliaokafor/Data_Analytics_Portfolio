@@ -142,29 +142,5 @@ Prioritize professional development programs that equip teachers with evidence-b
 *Like what you see? Let's Connect!
 •	LinkedIn: 
 •	Project LinkedIn Post: [View post]()
-## Contact Information
 
-<table>
-  <tbody>
-    <tr>
-      <td>📧 Send me an email at</td>
-      <td><a href="mailto:aureokafor2@gmail.com">aureokafor2@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>☎️ Give me a call </td>
-      <td>(+234) 8037136689</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Lagos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>📑</td>
-      <td><a href="Cv.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td> ℹ️ </td>
-      <td><a href="https://www.linkedin.com/in/aureliaaokafor/">Connect with me on Linkedin</a></td>
-    </tr>
-  </tbody>
-</table>
+ 
