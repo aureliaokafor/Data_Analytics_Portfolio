@@ -161,4 +161,151 @@ Prioritize professional development programs that equip teachers with evidence-b
 •	LinkedIn: [My profile](linkedin.com/in/aureliaaokafor)
 •	Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_attendance-analytics-when-data-challenges-activity-7476230166747209728-sZhk)
 
+# UTME Student Performance Analysis
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Objective](#objective)
+4. [Tools Used](#tools-used)
+5. [Process](#process)
+6. [Key Insights](#key-insights)
+7. [Recommendations](#recommendations)
+8. [Connect With Me](#connect-with-me)
+
+---
+
+## Project Overview
+
+This project is an Excel dashboard built for Bright School, analyzing the UTME (Unified Tertiary Matriculation Examination) performance of 300 students across subject categories, gender, and school status (Boarding vs Day) for March 2026. The dashboard was designed to answer one central question: Are students adequately prepared for UTME examinations, and which student groups are meeting the school's benchmark score?  
+
+The analysis combined Pivot Tables, Pivot Charts, and Slicers to track performance trends, assess target achievement rates, and surface actionable insights to support data-driven academic preparation strategies.
+
+---
+
+ 
+
+---
+
+## Business Problem
+
+Following the release of the 2026 UTME results, school management lacked a consolidated view to:
+
+- Understand whether students were adequately prepared for the UTME examination  
+- Identify which student groups were performing better or below expectations  
+- Evaluate whether the school's target score benchmark of 300 was being achieved by a significant proportion of students  
+- Compare performance across subject categories, gender, and school status  
+- Make data-driven decisions to improve academic preparation strategies and student support programs  
+
+---
+
+## Objective
+
+The goal of this project was to:
+
+- Determine the total number of students who participated in the UTME examination  
+- Calculate the average UTME score across all students  
+- Identify how many students achieved the target score of 300 and above  
+- Measure the achievement rate (%) of students who met the target score benchmark  
+- Analyze gender distribution and compare male vs female performance  
+- Identify which subject category recorded the highest and lowest average UTME scores  
+- Compare average performance between Day and Boarding students  
+- Investigate the relationship between CBT practice frequency and student performance  
+- Identify which subject category contributed the highest number of students achieving the target score  
+
+---
+
+## Tools Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- DAX  
+
+---
+
+## Process
+
+The following steps were carried out during the analysis:  
+
+1. Cleaned and structured raw student data including demographics, subject categories, CBT practice frequency, extension class participation, school status, and UTME scores  
+2. Built Pivot Tables to summarize performance across subject categories, gender, and school status  
+3. Created Pivot Charts to visualize student distribution, average scores by subject category, and target achievement rates  
+4. Connected Slicers for Gender, Subject Category, and School Status to enable dynamic filtering  
+5. DAX measures were written to calculate the key performance indicators, including Total Students, Average UTME Score, Target Achievement Count, and Achievement Rate (%), before being displayed as KPI cards on the dashboard.  
+
+6. Designed KPI cards for Students, Average Score, Target Score, and Achievement Rate  
+7. Packaged findings into a PowerPoint report deck  
+
+---
+
+## Key Insights
+
+### Overall Performance
+
+- 300 students analyzed across 4 subject categories  
+- Average UTME Score: 306  
+- Target Score: 300  
+- Achievement Rate: 57% ( meaning only 57 out of every 100 students met the school's benchmark score)  
+
+---
+
+### Subject Category Performance
+
+- Commercial students recorded the highest average UTME score (308)  
+- Art followed at 306, then Science/Tech at 305, and Science at 304  
+- Science students had the lowest target achievement rate (55%) across all subject categories  
+
+---
+
+### Gender Performance
+
+- Female students: 152    
+- Male students: 148  
+- Male students achieved a higher target achievement rate (61%) than female students (53%)  
+- Gender distribution was nearly balanced, making the performance gap a notable finding worth investigating further  
+
+---
+
+### Target Achievement by Subject Category
+
+- Science/Tech: 56% achieved the target score of 300, leaving 44% still below the benchmark  
+- Science: 55% met the target score of 300, with the remaining 45% falling short of the benchmark  
+- Commercial: 64% achieved the target score of 300, though more than a third of the group missed the target  
+- Art: 53% reached the target score of 300, while 47% remained below the expected standard  
+
+---
+
+## Recommendations
+
+### 1. Investigate and Replicate Commercial Student Success
+Commercial students consistently outperformed other subject categories. School management should investigate and document the practices, teaching approaches, and student habits driving this performance, then share them across other subject groups.
+
+### 2. Targeted Academic Support for Lower-Performing Students
+Students in Art, Science and Science/Tech categories showed the highest target miss rates. Structured intervention programs including remedial sessions, mentoring, and subject-specific support should be prioritized for these groups.
+
+### 3. Expand CBT Practice Sessions
+Given that CBT (Computer-Based Testing) is the UTME exam format, increasing the frequency and quality of CBT practice sessions can directly improve student readiness and reduce exam-day performance anxiety.
+
+### 4. UTME-Focused Professional Development for Teachers
+Equip teachers particularly those handling Art, Science and Science/Tech subjects with exam-focused teaching strategies, past question analysis, and data literacy skills to better support student preparation.
+
+### 5. Investigate Gender Performance Gap
+The 8-percentage-point gap between male (61%) and female (53%) achievement rates warrants further investigation. Understanding the contributing factors will help the school design targeted support for female students.
+
+### 6. Track Achievement Rates Regularly
+Establish a regular monitoring cycle; termly or quarterly to track student achievement rates over time, identify improvement trends, and catch performance declines early before they compound.
+
+---
+
+## Connect With Me
+
+- LinkedIn:
+- Project LinkedIn Post: [View post](#paste your LinkedIn post URL here)
+
+
  
