@@ -61,7 +61,7 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 This project is an Excel/Power Pivot academic performance dashboard built for Daisy School, analyzing 300 students across 3 terms (First, Second, Third) and 7 subjects (Mathematics, English, Social Studies, Science, Vocational Aptitude, French, and Civic Education) for the 2025/2026 academic session. The dashboard was designed to answer one central question: Do students who show up perform better?
 The analysis combined a star-schema data model, DAX measures, and inferential statistics (t-tests) to investigate the relationship between attendance and academic performance, identify subjects where students struggle most, and surface class- and term-level performance trends to support school leadership decision-making.
 ---
- 
+ ![img](Picture1.png)
 ---
 ## Business Problem
 School leadership lacked a consolidated view to:
@@ -111,14 +111,7 @@ The following steps were carried out during the analysis:
 •	Rather than suggesting an advantage to absenteeism, this likely reflects the intermittent nature of the absences recorded. Missed classes were scattered rather than consecutive, allowing students to re-engage with lesson content and recover lost ground with teacher support, without major disruption to their academic trajectory
 ---
 ### Independent t-test results (Good vs. Poor attendance) by subject:
-Subject	Good Mean	Poor Mean	t-Stat	df	p-value (2-tail)	Significant?
-Mathematics	63.55	61.48	1.386	898	0.166	No
-English	67.67	67.45	0.144	898	0.886	No
-Social Studies	68.09	68.59	-0.327	898	0.744	No
-Science	63.52	64.30	-0.521	898	0.603	No
-Vocational Aptitude	71.11	72.58	-0.961	898	0.337	No
-French	58.02	57.73	0.207	898	0.836	No
-Civic Education	69.09	71.30	-1.428	898	0.154	No
+![img](Picture2.png)
 All seven subjects returned p-values well above the 0.05 significance threshold, confirming that the difference in academic performance between Good and Poor attendance groups is not statistically significant.
 ---
 ### Class-Level Trends
