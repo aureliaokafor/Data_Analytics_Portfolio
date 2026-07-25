@@ -48,7 +48,11 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 # Student Attendance and Performance Analysis
 ---
 ## Table of Contents
-1.	[Project Overview](#project-overview)
+<details>
+<summary>
+ Student Attendance and Performance Analysis
+</summary>
+ 1.	[Project Overview](#project-overview)
 2.	[Business Problem](#business-problem)
 3.	[Objective](#objective)
 4.	[Tools Used](#tools-used)
@@ -56,6 +60,53 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 6.	[Key Insights](#key-insights)
 7.	[Recommendations](#recommendations)
 8.	[Connect With Me](#connect-with-me)
+
+</details>
+<details>
+<summary>
+ UTME Student Performance Analysis
+</summary>
+ 1.	[Project Overview](#project-overview-1)
+2.	[Business Problem](#business-problem-1)
+3.	[Objective](#objective-1)
+4.	[Tools Used](#tools-used-1)
+5.	[Process](#process-1)
+6.	[Key Insights](#key-insights-1)
+7.	[Recommendations](#recommendations-1)
+8.	[Connect With Me](#connect-with-me-1)
+
+</details>
+<details>
+<summary>
+ Emerald School Enrollment Analysis
+</summary>
+ 1.	[Project Overview](#project-overview-2)
+2.	[Business Problem](#business-problem-2)
+3.	[Objective](#objective-2)
+4.	[Tools Used](#tools-used-2)
+5.	[Process](#process-2)
+6.	[Key Insights](#key-insights-2)
+7.	[Recommendations](#recommendations-2)
+8.	[Connect With Me](#connect-with-me-2)
+
+</details>
+<details>
+<summary>
+ Daisy School Lead Generation and Conversion Analysis
+</summary>
+ 1.	[Project Overview](#project-overview-3)
+2.	[Business Problem](#business-problem-3)
+3.	[Objective](#objective-3)
+4.	[Tools Used](#tools-used-4)
+5.	[Process](#process-5)
+6.	[Key Insights](#key-insights-6)
+7.	[Recommendations](#recommendations-7)
+8.	[Connect With Me](#connect-with-me-8)
+
+</details>
+
+
+
 
 
 ---
@@ -163,18 +214,6 @@ Prioritize professional development programs that equip teachers with evidence-b
 
 # UTME Student Performance Analysis
 
----
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Business Problem](#business-problem)
-3. [Objective](#objective)
-4. [Tools Used](#tools-used)
-5. [Process](#process)
-6. [Key Insights](#key-insights)
-7. [Recommendations](#recommendations)
-8. [Connect With Me](#connect-with-me)
 
 ---
 
@@ -311,19 +350,6 @@ Establish a regular monitoring cycle; termly or quarterly to track student achie
 
 ---
 
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Business Problem](#business-problem)
-3. [Objective](#objective)
-4. [Tools Used](#tools-used)
-5. [Process](#process)
-6. [Key Insights](#key-insights)
-7. [Recommendations](#recommendations)
-8. [Connect With Me](#connect-with-me)
-
----
-
 ## Project Overview
 
 This project is a Power BI enrollment dashboard built for Emerald School, analyzing 200 parents and 608 students enrolled across 6 enrollment factors and 2 satisfaction groups (Satisfied and Dissatisfied) for the 2024/2025 academic year. The dashboard was designed to answer one central question: What drives school enrollment, and does it lead to parent satisfaction?  
@@ -443,19 +469,6 @@ Establish a regular monitoring cycle to track satisfaction rates alongside enrol
 
 
 # Daisy School Lead Generation and Conversion Analysis
-
----
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Business Problem](#business-problem)
-3. [Objective](#objective)
-4. [Tools Used](#tools-used)
-5. [Process](#process)
-6. [Key Insights](#key-insights)
-7. [Recommendations](#recommendations)
-8. [Connect With Me](#connect-with-me)
 
 ---
 
