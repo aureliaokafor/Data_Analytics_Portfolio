@@ -53,14 +53,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
  Student Attendance and Performance Analysis
 </summary>
 
-1.<a href= "#project-overview">Project Overview  </a>  
-2.<a href= "#business-problem">Business Problem  </a>  
-3.<a href = "#objective">Objective  </a>  
-4.<a href ="#tools-used">Tools Used  </a>  
-5.<a href="#process">Process  </a>  
-6.<a href= "#key-insights">Key Insights  </a>  
-7.<a href = "#recommendations">Recommendations  </a>  
-8.<a href = "#connect-with-me">Connect With Me</a>  
+1.<a href= "#project-overview">Project Overview  </a><br>  
+2.<a href= "#business-problem">Business Problem  </a><br>  
+3.<a href = "#objective">Objective  </a><br>  
+4.<a href ="#tools-used">Tools Used  </a><br>  
+5.<a href="#process">Process  </a> <br> 
+6.<a href= "#key-insights">Key Insights  </a> <br> 
+7.<a href = "#recommendations">Recommendations  </a>  <br>
+8.<a href = "#connect-with-me">Connect With Me</a>  <br>
 
 </details>
 <details>
@@ -69,14 +69,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 </summary>
  
 
-1.<a href= "#project-overview-1">Project Overview  </a>  
-2.<a href= "#business-problem-1">Business Problem  </a>  
-3.<a href = "#objective-1">Objective  </a>  
-4.<a href ="#tools-used-1">Tools Used  </a>  
-5.<a href="#process-1">Process  </a>  
-6.<a href= "#key-insights-1">Key Insights  </a>  
-7.<a href = "#recommendations-1">Recommendations  </a>  
-8.<a href = "#connect-with-me-1">Connect With Me</a>  
+1.<a href= "#project-overview-1">Project Overview  </a>  <br>
+2.<a href= "#business-problem-1">Business Problem  </a> <br> 
+3.<a href = "#objective-1">Objective  </a>  <br>
+4.<a href ="#tools-used-1">Tools Used  </a> <br> 
+5.<a href="#process-1">Process  </a>  <br>
+6.<a href= "#key-insights-1">Key Insights  </a> <br> 
+7.<a href = "#recommendations-1">Recommendations  </a> <br> 
+8.<a href = "#connect-with-me-1">Connect With Me</a>  <br>
 
 
 
@@ -87,14 +87,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 </summary>
  
 
-1.<a href= "#project-overview-2">Project Overview  </a>  
-2.<a href= "#business-problem-2">Business Problem  </a>  
-3.<a href = "#objective-2">Objective  </a>  
-4.<a href ="#tools-used-2">Tools Used  </a>  
-5.<a href="#process-2">Process  </a>  
-6.<a href= "#key-insights-2">Key Insights  </a>  
-7.<a href = "#recommendations-2">Recommendations  </a>  
-8.<a href = "#connect-with-me-2">Connect With Me</a>  
+1.<a href= "#project-overview-2">Project Overview  </a>  <br>
+2.<a href= "#business-problem-2">Business Problem  </a>  <br>
+3.<a href = "#objective-2">Objective  </a>  <br>
+4.<a href ="#tools-used-2">Tools Used  </a>  <br>
+5.<a href="#process-2">Process  </a>  <br>
+6.<a href= "#key-insights-2">Key Insights  </a> <br> 
+7.<a href = "#recommendations-2">Recommendations  </a> <br> 
+8.<a href = "#connect-with-me-2">Connect With Me</a>  <br>
 
 
 </details>
@@ -104,14 +104,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 </summary>
  
 
-1.<a href= "#project-overview-3">Project Overview  </a>  
-2.<a href= "#business-problem-3">Business Problem  </a>  
-3.<a href = "#objective-3">Objective  </a>  
-4.<a href ="#tools-used-3">Tools Used  </a>  
-5.<a href="#process-3">Process  </a>  
-6.<a href= "#key-insights-3">Key Insights  </a>  
-7.<a href = "#recommendations-3">Recommendations  </a>  
-8.<a href = "#connect-with-me-3">Connect With Me</a>  
+1.<a href= "#project-overview-3">Project Overview  </a>  <br>
+2.<a href= "#business-problem-3">Business Problem  </a>  <br>
+3.<a href = "#objective-3">Objective  </a>  <br>
+4.<a href ="#tools-used-3">Tools Used  </a>  <br>
+5.<a href="#process-3">Process  </a>  <br>
+6.<a href= "#key-insights-3">Key Insights  </a><br>  
+7.<a href = "#recommendations-3">Recommendations  </a><br>  
+8.<a href = "#connect-with-me-3">Connect With Me</a>  <br>
 
 
 </details>
