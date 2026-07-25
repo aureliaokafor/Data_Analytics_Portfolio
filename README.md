@@ -474,7 +474,7 @@ Establish a regular monitoring cycle to track satisfaction rates alongside enrol
 ---
 
  
-
+## Connect with me
 - LinkedIn:[My profile](https://www.linkedin.com/in/aureliaaokafor)
 - Project LinkedIn Post: [View Post](https://www.linkedin.com/posts/aureliaaokafor_from-enrollment-to-parent-satisfaction-activity-7469703750140567552--gW4)
 
