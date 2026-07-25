@@ -44,9 +44,6 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 ## MY PORTFOLIO 
 
 *Have a look at some of the projects I have done.*
-
-# Student Attendance and Performance Analysis
----
 ## Table of Contents
 <details>
 <summary>
@@ -118,6 +115,9 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 
 
 
+
+# Student Attendance and Performance Analysis
+---
 
 
 ---
