@@ -307,5 +307,140 @@ Establish a regular monitoring cycle; termly or quarterly to track student achie
 - LinkedIn:[My profile](https://www.linkedin.com/in/aureliaaokafor)
 - Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_utme-student-performance-analysis-activity-7467151675875569664-chZr)
 
+# Emerald School Enrollment Analysis
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Objective](#objective)
+4. [Tools Used](#tools-used)
+5. [Process](#process)
+6. [Key Insights](#key-insights)
+7. [Recommendations](#recommendations)
+8. [Connect With Me](#connect-with-me)
+
+---
+
+## Project Overview
+
+This project is a Power BI enrollment dashboard built for Emerald School, analyzing 200 parents and 608 students enrolled across 6 enrollment factors and 2 satisfaction groups (Satisfied and Dissatisfied) for the 2024/2025 academic year. The dashboard was designed to answer one central question: What drives school enrollment, and does it lead to parent satisfaction?  
+
+The analysis investigated which enrollment factors were most influential in driving parents' decisions to enroll their children, assessed whether those factors were also translating into parent satisfaction, and identified the retention and referral risks posed by dissatisfied parents; all to support data-driven enrollment strategy decisions for school management.
+ 
+
+
+
+---
+
+## Business Problem
+
+School management lacked a consolidated view to:  
+
+- Identify which enrollment factors were most influential in parents' decision to enroll their children  
+- Understand whether the factors driving enrollment were also leading to parent satisfaction  
+- Determine why nearly half of enrolled parents reported dissatisfaction after enrollment  
+- Assess how satisfaction levels related to the number of children enrolled per family  
+- Identify which enrollment factors carried the highest risk of dissatisfaction and potential student churn  
+- Make evidence-based decisions to improve retention and future referral rates  
+
+---
+
+## Objective
+
+The goal of this project was to:  
+
+- Determine the total number of students enrolled and compare it against the school's target of 900  
+- Calculate core KPIs: total enrollment, target enrollment, average children per family, enrollment rate, and satisfaction rate  
+- Identify which enrollment factor attracted the highest number of parents to the school  
+- Compare the number of satisfied versus dissatisfied parents after enrollment  
+- Identify which enrollment factors were associated with the highest and lowest parent satisfaction rates  
+- Compare the number of children enrolled by satisfied versus dissatisfied parents  
+- Identify which enrollment factors posed the greatest risk of dissatisfaction and student churn  
+- Translate findings into actionable recommendations for the school  
+
+---
+
+## Tools Used  
+
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query  
+- Excel (data preparation)  
+
+---
+
+## Process
+
+The following steps were carried out during the analysis:  
+
+1. Cleaned and structured raw enrollment data including parent demographics, enrollment factors, satisfaction status, school status, and number of children enrolled per family  
+2. Built a data model in Power BI connecting enrollment factors, satisfaction status, and student counts  
+3. DAX measures were written to calculate the key performance indicators: Total Enrollment, Target Enrollment, Enrollment Rate, Average Children, and Satisfaction Rate  before being displayed as KPI cards on the dashboard  
+4. Segmented parents into Satisfied and Dissatisfied groups and compared enrollment counts and average children per family across both groups  
+5. Analyzed satisfaction rates by enrollment factor to identify which factors drove the highest and lowest satisfaction  
+6. Designed an interactive dashboard with KPI cards, slicers for Enrollment Factor and Satisfaction Status, bar charts for parent distribution and satisfaction by factor, and a satisfaction by enrollment comparison view  
+7. Packaged findings into a PowerPoint report deck  
+
+---
+
+## Key Insights
+
+### Overall Enrollment
+
+-608 students enrolled against a target of 900, an enrollment rate of 68%  
+-Satisfaction Rate: 49%, meaning only 49 out of every 100 enrolled parents were satisfied, revealing a significant gap between enrollment experience and expectations  
+- Average children enrolled per family:3, consistent across both satisfied and dissatisfied groups  
+
+---
+
+### Enrollment Factors
+
+-Cost & Perceived Value was the strongest enrollment driver, attracting 38 parents yet it was also among the top factors associated with dissatisfaction  
+- Academic Quality attracted the fewest parents (31), suggesting it is not the primary motivator for enrollment decisions at this school  
+- Enrollment factors were effective at attracting families, but the higher number of children enrolled by dissatisfied parents suggests initial expectations were not fully met during the enrollment experience creating a retention and referral risk  
+
+---
+
+### Satisfaction vs. Dissatisfaction
+
+- 98 parents were satisfied and enrolled 299 children  
+- 102 parents were dissatisfied and enrolled 309 children, meaning more children are at retention risk than those in satisfied households  
+- School Environment recorded the highest satisfaction count (19 satisfied parents) among all enrollment factors  
+- Cost & Perceived Value and Parent Testimonials/Recommendations recorded the highest dissatisfaction signaling a disconnect between word-of-mouth expectations and actual school experience  
+
+---
+
+## Recommendations
+
+### 1. Review Cost Communication and Value Proposition  
+Cost & Perceived Value was both the top enrollment driver and a leading source of dissatisfaction. The school should review tuition pricing, introduce flexible payment plans, and clearly communicate the value parents receive for their investment  before and after enrollment.  
+
+### 2. Collect Targeted Parent Feedback  
+Implement structured post-enrollment surveys focused on cost concerns and unmet expectations. Understanding why parents become dissatisfied early enough allows the school to intervene before children are withdrawn.  
+
+### 3. Improve Communication and Responsiveness  
+Parents cited Communication and Responsiveness as a key enrollment factor  yet it also contributed to dissatisfaction. Ensure parents receive timely updates, clear information, and prompt responses to concerns throughout their child's time at the school.  
+
+### 4. Turn Satisfied Parents into Referral Ambassadors  
+With 98 satisfied parents averaging 3 children each, there is a strong base for a structured parent advocacy or referral programme. Satisfied parents are the school's most credible marketing asset.  
+
+### 5. Address the Retention Risk from Dissatisfied Parents  
+Dissatisfied parents enrolled 309 children which is  more than satisfied parents. Each dissatisfied parent represents a potential withdrawal and a negative referral. A proactive outreach programme targeting dissatisfied parents can help recover trust and reduce churn.  
+
+### 6. Track Satisfaction Alongside Enrollment Monthly  
+Establish a regular monitoring cycle to track satisfaction rates alongside enrollment metrics, so declining satisfaction trends are caught early before they compound into significant retention losses.  
+
+---
+
+ 
+
+- LinkedIn:
+- Project LinkedIn Post: [View post](paste your LinkedIn post URL here)
+
+
+
 
  
