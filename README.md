@@ -53,14 +53,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
  Student Attendance and Performance Analysis
 </summary>
 
-1.<a href= "#project-overview">1.Project Overview  </a>
-2.<a href= "#business-problem">Business Problem  </a>
-3.<a href = "#objective">Objective  </a>
-4.<a href ="#tools-used">Tools Used  </a>
-5.<a href="#process">Process  </a>
-6.<a href= "#key-insights">Key Insights  </a>
-7.<a href = "#recommendations">Recommendations  </a>
-8.<a href = "#connect-with-me">Connect With Me</a>
+1.<a href= "#project-overview">Project Overview  </a>  
+2.<a href= "#business-problem">Business Problem  </a>  
+3.<a href = "#objective">Objective  </a>  
+4.<a href ="#tools-used">Tools Used  </a>  
+5.<a href="#process">Process  </a>  
+6.<a href= "#key-insights">Key Insights  </a>  
+7.<a href = "#recommendations">Recommendations  </a>  
+8.<a href = "#connect-with-me">Connect With Me</a>  
 
 </details>
 <details>
@@ -68,14 +68,17 @@ In addition to technical expertise, I bring strong soft skills that are essentia
  UTME Student Performance Analysis
 </summary>
  
-1.	[Project Overview](#project-overview-1)
-2.	[Business Problem](#business-problem-1)
-3.	[Objective](#objective-1)
-4.	[Tools Used](#tools-used-1)
-5.	[Process](#process-1)
-6.	[Key Insights](#key-insights-1)
-7.	[Recommendations](#recommendations-1)
-8.	[Connect With Me](#connect-with-me-1)
+
+1.<a href= "#project-overview-1">Project Overview  </a>  
+2.<a href= "#business-problem-1">Business Problem  </a>  
+3.<a href = "#objective-1">Objective  </a>  
+4.<a href ="#tools-used-1">Tools Used  </a>  
+5.<a href="#process-1">Process  </a>  
+6.<a href= "#key-insights-1">Key Insights  </a>  
+7.<a href = "#recommendations-1">Recommendations  </a>  
+8.<a href = "#connect-with-me-1">Connect With Me</a>  
+
+
 
 </details>
 <details>
@@ -83,14 +86,16 @@ In addition to technical expertise, I bring strong soft skills that are essentia
  Emerald School Enrollment Analysis
 </summary>
  
-1.	[Project Overview](#project-overview-2)
-2.	[Business Problem](#business-problem-2)
-3.	[Objective](#objective-2)
-4.	[Tools Used](#tools-used-2)
-5.	[Process](#process-2)
-6.	[Key Insights](#key-insights-2)
-7.	[Recommendations](#recommendations-2)
-8.	[Connect With Me](#connect-with-me-2)
+
+1.<a href= "#project-overview-2">Project Overview  </a>  
+2.<a href= "#business-problem-2">Business Problem  </a>  
+3.<a href = "#objective-2">Objective  </a>  
+4.<a href ="#tools-used-2">Tools Used  </a>  
+5.<a href="#process-2">Process  </a>  
+6.<a href= "#key-insights-2">Key Insights  </a>  
+7.<a href = "#recommendations-2">Recommendations  </a>  
+8.<a href = "#connect-with-me-2">Connect With Me</a>  
+
 
 </details>
 <details>
@@ -98,14 +103,16 @@ In addition to technical expertise, I bring strong soft skills that are essentia
  Daisy School Lead Generation and Conversion Analysis
 </summary>
  
-1.	[Project Overview](#project-overview-3)
-2.	[Business Problem](#business-problem-3)
-3.	[Objective](#objective-3)
-4.	[Tools Used](#tools-used-4)
-5.	[Process](#process-5)
-6.	[Key Insights](#key-insights-6)
-7.	[Recommendations](#recommendations-7)
-8.	[Connect With Me](#connect-with-me-8)
+
+1.<a href= "#project-overview-3">Project Overview  </a>  
+2.<a href= "#business-problem-3">Business Problem  </a>  
+3.<a href = "#objective-3">Objective  </a>  
+4.<a href ="#tools-used-3">Tools Used  </a>  
+5.<a href="#process-3">Process  </a>  
+6.<a href= "#key-insights-3">Key Insights  </a>  
+7.<a href = "#recommendations-3">Recommendations  </a>  
+8.<a href = "#connect-with-me-3">Connect With Me</a>  
+
 
 </details>
 
