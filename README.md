@@ -442,6 +442,163 @@ Establish a regular monitoring cycle to track satisfaction rates alongside enrol
 - Project LinkedIn Post: [View Post](https://www.linkedin.com/posts/aureliaaokafor_from-enrollment-to-parent-satisfaction-activity-7469703750140567552--gW4)
 
 
+# Daisy School Lead Generation and Conversion Analysis
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Objective](#objective)
+4. [Tools Used](#tools-used)
+5. [Process](#process)
+6. [Key Insights](#key-insights)
+7. [Recommendations](#recommendations)
+8. [Connect With Me](#connect-with-me)
+
+---
+
+## Project Overview
+
+This project is an Excel lead conversion dashboard built for Daisy School, analyzing 300 leads generated between January and June 2025 across 6 marketing channels (School Flyer, Referral, Community Outreach, WhatsApp Campaign, Instagram Ads, and Facebook Ads). The dashboard was designed to answer one central question: Which marketing channels and engagement strategies are most effective at converting leads into enrolled students?  
+
+The analysis combined Pivot Tables, Pivot Charts, and Slicers to track conversion trends across marketing channels, tuition interest levels, class levels, and follow-up call frequency surfacing actionable insights to support the school's admissions strategy and channel investment decisions.
+
+---
+ 
+
+
+---
+
+## Business Problem
+
+The admissions team lacked a consolidated view to:  
+
+- Identify which marketing channels were generating the highest and lowest conversion rates  
+- Understand how follow-up call frequency was influencing lead conversion outcomes  
+- Determine which tuition interest levels and class levels were most likely to convert  
+- Pinpoint which months recorded the highest inquiry volumes and conversion activity  
+- Make evidence-based decisions on where to focus admissions resources and marketing spend  
+
+---
+
+## Objective
+
+The goal of this project was to:  
+
+- Determine the total number of leads generated and how many were successfully converted  
+- Calculate core KPIs: total leads, converted, not converted, conversion rate, and average follow-up calls  
+- Identify which marketing channel recorded the highest and lowest conversion rates  
+- Analyze how conversion rate varied across tuition interest levels (High, Medium, Low)  
+- Identify which class level recorded the highest conversion rate  
+- Investigate the relationship between follow-up call frequency and lead conversion outcomes  
+- Track the inquiry-to-admission conversion trend across the January to June 2025 period  
+- Translate findings into actionable recommendations for the admissions team  
+
+---
+
+## Tools Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- DAX  
+
+---
+
+## Process
+
+The following steps were carried out during the analysis:  
+
+1. Cleaned and structured raw lead data including marketing channel, follow-up call frequency, tuition interest level, class level of interest, and conversion status  
+2. Built Pivot Tables to summarize conversion rates across marketing channels, tuition interest levels, class levels, and follow-up call counts  
+3. Created Pivot Charts to visualize the inquiry-to-admission conversion trend, conversion rate by channel, conversion rate by tuition interest, and conversion rate by class level  
+4. Connected Slicers for Marketing Channel and Follow-up Calls to enable dynamic filtering  
+5. Designed KPI cards for Total Leads, Converted, Not Converted, Conversion Rate, and Average Calls  
+6. Packaged findings into a PowerPoint report deck  
+
+---
+
+## Key Insights
+
+### Overall Conversion Performance
+
+- 300 leads generated across 6 marketing channels between January and June 2025  
+- 173 leads converted, a conversion rate of 57.7%  
+- 127 leads not converted, representing a significant pipeline gap  
+- Average follow-up calls per lead: 3.09  
+
+---
+
+### Conversion Rate by Marketing Channel
+
+- School Flyer delivered the highest conversion rate (66.7%) with an average of 3.23 follow-up calls  making it the most effective acquisition channel  
+- Referral followed at 63.6%, and Community Outreach at 61.8%  
+- Facebook Ads recorded the lowest conversion rate (48.2%) meaning fewer than 1 in 2 Facebook leads converted  
+- Instagram Ads also underperformed at 50.9%, just above the halfway mark  
+
+---
+
+### Conversion Rate by Tuition Interest
+
+- Leads with High tuition interest converted at the highest rate (67.0%) — 67 out of every 100 high-interest leads enrolled  
+- Medium interest leads converted at 54.3%, while Low interest leads converted at 52.9%  
+- The gap between High and Low interest groups (14.1 percentage points) highlights the importance of prioritising high-intent leads in the follow-up pipeline  
+
+---
+
+### Conversion Rate by Class Level
+
+- Primary 1recorded the highest conversion rate (78.9%) nearly 8 in every 10 Primary 1 inquiries resulted in enrollment  
+- Primary 6 had the lowest conversion rate (49.1%), with fewer than half of inquiries converting  
+- Primary 5 (54.2%) and Primary 2 (58.3%) showed moderate performance with room for improvement  
+
+---
+
+### Monthly Conversion Trend
+
+- March recorded the highest inquiry-to-admission conversion rate (69.6%), followed by April at 62.5%  
+- February saw the lowest conversion rate (46.3%)  fewer than 1 in 2 leads converted that month  
+- Conversion activity picked up significantly from February into March, suggesting a seasonal admissions surge tied to mid-term enrollment decisions  
+
+---
+
+### Channel and Interest Combination
+
+- WhatsApp Campaign leads with high tuition interest achieved the strongest conversion rate (91.7%) the single highest-performing segment in the entire dataset  
+
+---
+
+## Recommendations
+
+### 1. Expand and Optimise School Flyer Campaigns  
+School Flyer was the best-performing acquisition channel at 66.7%. The school should increase investment in flyer distribution, refine targeting to high-density residential and commercial areas around the school, and track which flyer designs and locations produce the most inquiries.  
+
+### 2. Develop Targeted Nurturing Strategies for Facebook and Instagram Leads  
+Facebook Ads (48.2%) and Instagram Ads (50.9%) are underperforming relative to other channels. Rather than abandoning these channels, the school should develop tailored follow-up sequences  including personalized messages, virtual school tours, and parent testimonial content  to improve conversion from digital ad leads.  
+
+### 3. Replicate Successful WhatsApp Engagement Tactics for High-Interest Prospects
+WhatsApp leads with high tuition interest achieved a 91.7% conversion rate  the strongest segment in the dataset. The admissions team should document and replicate these engagement tactics, applying them across other channels when leads show high interest signals.  
+
+### 4. Train the Admissions Team on Consultation-Style Conversations
+Rather than focusing solely on increasing call frequency, the team should be trained to conduct consultative conversations that address parent objections, communicate the school's value proposition clearly, and guide high-interest leads through the enrollment decision.  
+
+### 5. Monitor Class-Level Performance and Replicate Primary 1 Success
+Primary 1 achieved a 78.9% conversion rate significantly above the school average. The admissions team should analyze what makes Primary 1 inquiries easier to convert (urgency, parent mindset, fee structure) and apply those lessons to improve conversion rates for Primary 6 and other underperforming class levels.  
+
+### 6. Prioritise High-Interest Leads in the Follow-Up Pipeline
+With a 14.1 percentage point gap between High and Low tuition interest conversion rates, the admissions team should segment leads by interest level immediately upon inquiry and fast-track high-interest leads for priority follow-up reducing response times and increasing the likelihood of conversion before parents explore alternatives.  
+
+---
+
+## Connect With Me
+
+- LinkedIn:[My profile](https://www.linkedin.com/in/aureliaaokafor)
+- Project LinkedIn Post: [View post](https://www.linkedin.com/posts/aureliaaokafor_from-leads-to-admissions-a-school-marketing-activity-7468621138672107520-_gEI)
+
+
 
 
  
