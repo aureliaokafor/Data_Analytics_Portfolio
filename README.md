@@ -53,14 +53,14 @@ In addition to technical expertise, I bring strong soft skills that are essentia
  Student Attendance and Performance Analysis
 </summary>
 
-<a href= "#project-overview">Project Overview</a>
-- 2.	[Business Problem](#business-problem)
-- 3.	[Objective](#objective)
-- 4.	[Tools Used](#tools-used)
-- 5.	[Process](#process)
-- 6.	[Key Insights](#key-insights)
-- 7.	[Recommendations](#recommendations)
-- 8.	[Connect With Me](#connect-with-me)
+1.<a href= "#project-overview">1.Project Overview  </a>
+2.<a href= "#business-problem">Business Problem  </a>
+3.<a href = "#objective">Objective  </a>
+4.<a href ="#tools-used">Tools Used  </a>
+5.<a href="#process">Process  </a>
+6.<a href= "#key-insights">Key Insights  </a>
+7.<a href = "#recommendations">Recommendations  </a>
+8.<a href = "#connect-with-me">Connect With Me</a>
 
 </details>
 <details>
