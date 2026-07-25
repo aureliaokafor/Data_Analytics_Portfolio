@@ -330,8 +330,9 @@ This project is a Power BI enrollment dashboard built for Emerald School, analyz
 
 The analysis investigated which enrollment factors were most influential in driving parents' decisions to enroll their children, assessed whether those factors were also translating into parent satisfaction, and identified the retention and referral risks posed by dissatisfied parents; all to support data-driven enrollment strategy decisions for school management.
  
+---
 
-
+![img](Picture4.png)
 
 ---
 
@@ -437,8 +438,8 @@ Establish a regular monitoring cycle to track satisfaction rates alongside enrol
 
  
 
-- LinkedIn:
-- Project LinkedIn Post: [View post](paste your LinkedIn post URL here)
+- LinkedIn:[My profile](https://www.linkedin.com/in/aureliaaokafor)
+- Project LinkedIn Post: [View Post](https://www.linkedin.com/posts/aureliaaokafor_from-enrollment-to-parent-satisfaction-activity-7469703750140567552--gW4)
 
 
 
