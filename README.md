@@ -52,21 +52,23 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 <summary>
  Student Attendance and Performance Analysis
 </summary>
-- 1.	[Project Overview](#project-overview)
-- 2.	[Business Problem](#business-problem)
-- 3.	[Objective](#objective)
-- 4.	[Tools Used](#tools-used)
-- 5.	[Process](#process)
-- 6.	[Key Insights](#key-insights)
-- 7.	[Recommendations](#recommendations)
-- 8.	[Connect With Me](#connect-with-me)
+ 
+1.	[Project Overview](#project-overview)
+2.	[Business Problem](#business-problem)
+3.	[Objective](#objective)
+4.	[Tools Used](#tools-used)
+5.	[Process](#process)
+6.	[Key Insights](#key-insights)
+7.	[Recommendations](#recommendations)
+8.	[Connect With Me](#connect-with-me)
 
 </details>
 <details>
 <summary>
  UTME Student Performance Analysis
 </summary>
- 1.	[Project Overview](#project-overview-1)
+ 
+1.	[Project Overview](#project-overview-1)
 2.	[Business Problem](#business-problem-1)
 3.	[Objective](#objective-1)
 4.	[Tools Used](#tools-used-1)
@@ -80,7 +82,8 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 <summary>
  Emerald School Enrollment Analysis
 </summary>
- 1.	[Project Overview](#project-overview-2)
+ 
+1.	[Project Overview](#project-overview-2)
 2.	[Business Problem](#business-problem-2)
 3.	[Objective](#objective-2)
 4.	[Tools Used](#tools-used-2)
@@ -94,7 +97,8 @@ In addition to technical expertise, I bring strong soft skills that are essentia
 <summary>
  Daisy School Lead Generation and Conversion Analysis
 </summary>
- 1.	[Project Overview](#project-overview-3)
+ 
+1.	[Project Overview](#project-overview-3)
 2.	[Business Problem](#business-problem-3)
 3.	[Objective](#objective-3)
 4.	[Tools Used](#tools-used-4)
