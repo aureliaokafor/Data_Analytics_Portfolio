@@ -2,7 +2,19 @@
 # Data_Analytics_Portfolio
 ## ABOUT ME
 
-Hello! I'm Aurelia Okafor 🤓, a data analyst  with a strong interest in transforming educational and operational data into meaningful insights that support data-driven decision-making. I enjoy working with data to uncover patterns, trends, and opportunities for improvement.
+# Hi, I'm Aurelia Okafor 👋
+
+Data tells a story. My job is to make sure the right people hear it.
+
+I'm a data analyst specializing in educational and operational data; 
+helping schools and organizations move from gut feeling to 
+evidence-based decisions. Whether that's uncovering what's holding 
+back student performance, identifying which marketing channels 
+actually convert leads, or revealing the gap between enrollment 
+numbers and parent satisfaction. I turn raw data into insights 
+that drive smarter decisions.
+
+I'm currently building my portfolio through real-world projects.
 
  
 
