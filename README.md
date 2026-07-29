@@ -254,7 +254,7 @@ The analysis combined Pivot Tables, Pivot Charts, and Slicers to track performan
 
 ## Business Problem
 
-Following the release of the 2026 UTME results, school management lacked a consolidated view to:
+Following the release of the 2026 UTME results, without a unified data view, school leadership had no reliable way to:
 
 - Understand whether students were adequately prepared for the UTME examination  
 - Identify which student groups were performing better or below expectations  
@@ -387,7 +387,7 @@ The analysis investigated which enrollment factors were most influential in driv
 
 ## Business Problem
 
-School management lacked a consolidated view to:  
+Key enrollment decisions were being made without visibility into:  
 
 - Identify which enrollment factors were most influential in parents' decision to enroll their children  
 - Understand whether the factors driving enrollment were also leading to parent satisfaction  
@@ -509,7 +509,7 @@ The analysis combined Pivot Tables, Pivot Charts, and Slicers to track conversio
 
 ## Business Problem
 
-The admissions team lacked a consolidated view to:  
+The admissions team had no data-driven basis to:  
 
 - Identify which marketing channels were generating the highest and lowest conversion rates  
 - Understand how follow-up call frequency was influencing lead conversion outcomes  
