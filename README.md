@@ -254,7 +254,7 @@ The analysis combined Pivot Tables, Pivot Charts, and Slicers to track performan
 
 ## Business Problem
 
-Following the release of the 2026 UTME results, without a unified data view, school leadership had no reliable way to:
+Following the release of the 2026 UTME results, school leadership had no reliable way to:
 
 - Understand whether students were adequately prepared for the UTME examination  
 - Identify which student groups were performing better or below expectations  
