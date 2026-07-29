@@ -389,12 +389,12 @@ The analysis investigated which enrollment factors were most influential in driv
 
 Key enrollment decisions were being made without visibility into:  
 
-- Identify which enrollment factors were most influential in parents' decision to enroll their children  
-- Understand whether the factors driving enrollment were also leading to parent satisfaction  
-- Determine why nearly half of enrolled parents reported dissatisfaction after enrollment  
-- Assess how satisfaction levels related to the number of children enrolled per family  
-- Identify which enrollment factors carried the highest risk of dissatisfaction and potential student churn  
-- Make evidence-based decisions to improve retention and future referral rates  
+- Identifying which enrollment factors were most influential in parents' decision to enroll their children  
+- Understanding whether the factors driving enrollment were also leading to parent satisfaction  
+- Determining why nearly half of enrolled parents reported dissatisfaction after enrollment  
+- Assessing how satisfaction levels related to the number of children enrolled per family  
+- Identifying which enrollment factors carried the highest risk of dissatisfaction and potential student churn  
+- Making evidence-based decisions to improve retention and future referral rates  
 
 ---
 
