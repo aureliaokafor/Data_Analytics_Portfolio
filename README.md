@@ -248,7 +248,7 @@ The analysis combined Pivot Tables, Pivot Charts, and Slicers to track performan
 
 ---
 
- 
+ ![img](Picture5.png)
 
 ---
 
@@ -503,7 +503,7 @@ The analysis combined Pivot Tables, Pivot Charts, and Slicers to track conversio
 
 ---
  
-
+![img](Picture6.png)
 
 ---
 
